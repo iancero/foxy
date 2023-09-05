@@ -1,0 +1,5 @@
+ADVERSE CHILDHOOD EXPERIENCE (ACE) QUESTIONNAIRE
+
+The Adverse Childhood Experience (ACE) Questionnaire is a 10-item self-report measure developed for the ACE study to identify childhood experiences of abuse and neglect. The survey consists of ten questions. Each affirmative answer is assigned one point. At the end of the questionnaire, the points are totaled for a score out of ten, known as the ACE score.
+
+{patient_first}'s total ACE score was {total_score}, which suggests {severity}. {patient_first} endorsed "yes" to  "Did you often feel that no one in your family loved you or thought you were important or special? Did you often feel as if your family didn't look out for each other, feel close to each other, or support each other?"
